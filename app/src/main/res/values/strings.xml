@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TFLiteObjectDetection</string>
+    <string name="about_project">About Project</string>
+</resources>
